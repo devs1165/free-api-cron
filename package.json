@@ -1,0 +1,24 @@
+{
+  "name": "free-api-cron",
+  "version": "1.0.0",
+  "description": "this cron is responsile to hit live server and update latest data evey 8 hrs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lets",
+    "put",
+    "a",
+    "smile",
+    "on",
+    "that",
+    "face"
+  ],
+  "author": "devil1165",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.5.0",
+    "request": "^2.88.0"
+  }
+}
